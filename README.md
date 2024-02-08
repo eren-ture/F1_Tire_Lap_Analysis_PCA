@@ -88,7 +88,7 @@ With the single race data, we see that more than 80% of the variance is explaine
 
 ![](https://github.com/eren-ture/F1_Tire_Lap_Analysis_PCA/blob/main/figures/Australia_2015/eigenvalues.png)
 
-**Eigenvactors**
+**Eigenvectors**
 
 ![](https://github.com/eren-ture/F1_Tire_Lap_Analysis_PCA/blob/main/figures/Australia_2015/eigenvectors_1.png)
 
