@@ -7,7 +7,7 @@ Data acquired from: https://github.com/mvmonaghan/f1-tires/tree/master
 
 ## Motivation
 
-Explain why a tire is used in a lap.
+Explain the core reasons of choosing a tire in a lap.
 
 ## Data Pre-processing
 
@@ -23,6 +23,8 @@ The Analysis is done with these **5 features**:
 - `STINT LAP`: How many laps the current tire's been used.
 - `PERCENT_COMPLETE`: The percent of race completed.
 - `TIME_DELTA`: Normalized time data.
-- `GAP_DELTA`: Normalized gap data.
+- `GAP_DELTA`: Normalized time gap data to the race leader.
 - `TIRE`: The tire compund used in that lap.
+
+## Analysis
 
