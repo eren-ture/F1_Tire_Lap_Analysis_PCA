@@ -51,7 +51,7 @@ Also, by plotting the **percent variances explained**, we see that 90% of the da
 
 **Eigenvectors**
 
-**TODO: ADD THE TABLE**
+![](https://github.com/eren-ture/F1_Tire_Lap_Analysis_PCA/blob/main/figures/All_Races/Eigenvectors.png)
 
 Explanations of the vectors:
 
@@ -89,6 +89,8 @@ With the single race data, we see that more than 80% of the variance is explaine
 ![](https://github.com/eren-ture/F1_Tire_Lap_Analysis_PCA/blob/main/figures/Australia_2015/eigenvalues.png)
 
 **Eigenvactors**
+
+![](https://github.com/eren-ture/F1_Tire_Lap_Analysis_PCA/blob/main/figures/Australia_2015/eigenvectors_1.png)
 
 X1 - Influenced most by `TIME`, `LAP` and `STINT_LAP`.
 
